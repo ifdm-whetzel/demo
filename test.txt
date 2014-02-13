@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Thioae' h'asdvais a sdl;FJASis a test.
+=======
+This is a test.
+Never gonna give you up!
+>>>>>>> b21a50ec2abeb11ff8907cb238162e929b7b47c4
 Never gonna let you down!
